@@ -1,0 +1,2 @@
+Fun fact:
+Git was created by Linus Torvalds, the same creator of Linux!
